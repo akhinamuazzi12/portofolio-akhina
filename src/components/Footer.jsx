@@ -11,7 +11,7 @@ const Footer = () => {
           
         </div>
         <div className="flex items-center gap-4">
-            <a href="https://github.com/danipanawan4/uas-portofolio-reactjs" target="_blank">
+            <a href="https://github.com/akhinamuazzi12/portofolio-akhina" target="_blank">
                 <i className="ri-github-fill r-4x"></i>
             </a>
             <a href="https://www.instagram.com/" target="_blank">
@@ -20,7 +20,7 @@ const Footer = () => {
             <a href="https://redditinc.com/" target="_blank">
                 <i className="ri-reddit-fill r-4x"></i>
             </a>
-            <a href="https://www.youtube.com/@danfitry2158" target="_blank">
+            <a href="https://www.youtube.com" target="_blank">
                 <i className="ri-youtube-fill r-4x"></i>
             </a>
         </div>
